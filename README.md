@@ -1,4 +1,4 @@
-# debien-utils
+# debian-utils
 Debian utils
 
 ### LXC
@@ -51,7 +51,7 @@ sh lxc-net.sh eth0 lxcbr0
 
 ### Mongo Restore
 
-Put the file where there are all the .bson files : 
+Put the file where there are all the .bson files :
 
 ```
 sh restore_dbs.sh <db_name>
